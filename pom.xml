@@ -9,7 +9,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <exec.mainClass>com.practice.filemanager.FileManager</exec.mainClass>
+        <exec.mainClass>com.file.FileManager</exec.mainClass>
     </properties>
     
     <dependencies>
